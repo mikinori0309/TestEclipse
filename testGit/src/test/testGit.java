@@ -6,6 +6,7 @@ public class testGit {
 		System.out.println("fuck you");
 		System.out.println("fuck you");
 		System.out.println("fuck you");
+		System.out.println("接続成功");
 	}
 
 }
